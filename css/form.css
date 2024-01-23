@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    text-underline: black;
+}
+form{
+    width: 50%;
+    margin: auto;
+    color: #08090c;
+    background-color: aqua;
+    padding: 20px;
+}
+button{ color: white;
+    width: 75px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+
+
+legend {
+    text-align: center;
+    color: #08090c;
+    font-size: 30px;
+}
+
+label{
+    display: inline-block;
+}
